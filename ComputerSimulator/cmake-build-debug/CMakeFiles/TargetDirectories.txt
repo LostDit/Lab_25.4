@@ -1,0 +1,5 @@
+C:/Users/maksi/CLionProjects/Lab_25.4/ComputerSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/ComputerSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/ComputerSimulator/cmake-build-debug/src/CMakeFiles/ComputerSimulator.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/ComputerSimulator/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/ComputerSimulator/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

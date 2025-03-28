@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.3.5\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\MyComputer.dir/objects.a
+C:\mingw32\bin\ar.exe qc CMakeFiles\MyComputer.dir/objects.a @CMakeFiles\MyComputer.dir\objects1.rsp
+C:\mingw32\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\MyComputer.dir/objects.a -Wl,--no-whole-archive -o MyComputer.exe -Wl,--out-implib,libMyComputer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyComputer.dir\linkLibs.rsp
