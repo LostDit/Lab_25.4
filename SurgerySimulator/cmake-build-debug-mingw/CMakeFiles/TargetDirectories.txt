@@ -1,0 +1,5 @@
+C:/Users/maksi/CLionProjects/Lab_25.4/SurgerySimulator/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/SurgerySimulator/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/SurgerySimulator/cmake-build-debug-mingw/src/CMakeFiles/SurgerySimulator.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/SurgerySimulator/cmake-build-debug-mingw/src/CMakeFiles/edit_cache.dir
+C:/Users/maksi/CLionProjects/Lab_25.4/SurgerySimulator/cmake-build-debug-mingw/src/CMakeFiles/rebuild_cache.dir
