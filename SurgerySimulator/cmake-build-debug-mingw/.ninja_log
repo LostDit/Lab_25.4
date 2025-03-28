@@ -1,0 +1,19 @@
+# ninja log v6
+2	769	7647400890467859	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+770	845	7647400898153105	src/SurgerySimulator.exe	503f14d6a6767835
+5	813	7647403333469971	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+813	894	7647403341550459	src/SurgerySimulator.exe	503f14d6a6767835
+4	341	7647403530178676	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+341	416	7647403533549176	src/SurgerySimulator.exe	503f14d6a6767835
+4	785	7647404202363730	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+786	861	7647404210188638	src/SurgerySimulator.exe	503f14d6a6767835
+5	765	7647405006612173	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+766	847	7647405014216878	src/SurgerySimulator.exe	503f14d6a6767835
+5	751	7647405281654318	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+752	826	7647405289128689	src/SurgerySimulator.exe	503f14d6a6767835
+5	772	7647405719750763	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+772	850	7647405727416411	src/SurgerySimulator.exe	503f14d6a6767835
+5	779	7647405978380508	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+779	861	7647405986116784	src/SurgerySimulator.exe	503f14d6a6767835
+4	734	7647406234057897	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+735	813	7647406241353023	src/SurgerySimulator.exe	503f14d6a6767835

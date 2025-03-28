@@ -1,0 +1,5 @@
+# ninja log v6
+2	197	7647395631194375	build.ninja	ebadeb7891f1693a
+1	772	7647394865499194	src/CMakeFiles/SurgerySimulator.dir/SurgerySimulator.cpp.obj	9d8b162e92f9de7d
+774	862	7647394873228127	src/SurgerySimulator.exe	503f14d6a6767835
+1	192	7647395631194375	build.ninja	ebadeb7891f1693a
